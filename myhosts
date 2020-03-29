@@ -1,0 +1,67 @@
+#屏蔽Corel验证#
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
+#屏蔽UltraEdit验证#
+127.0.0.1       licensing.ultraedit.com
+127.0.0.1       licensing1.ultraedit.com
+127.0.0.1       licensing2.ultraedit.com
+127.0.0.1       swupdate.ultraedit.com
+127.0.0.1       66.150.98.71
+#屏蔽xshell验证#
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+#屏蔽迅雷验证#
+#127.0.0.1 hub5btmain.sandai.net
+#127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+#youneed网站绑定ip#
+104.31.74.55  youneed.win
+104.31.74.55  www.youneed.win
+#AdGuardHome拦截排行#
+127.0.0.1 accscdn4public.m.taobao.com
+127.0.0.1 acs.m.taobao.com
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 amdc.m.taobao.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 android.rqd.qq.com
+127.0.0.1 api.vungle.com
+127.0.0.1 applog.uc.cn
+127.0.0.1 astrategy.beacon.qq.com
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 cfg.imtt.qq.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 extlog.snssdk.com
+127.0.0.1 events.api.vungle.com
+127.0.0.1 img-x.jd.com
+127.0.0.1 ipv4.gdt.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 m.qpic.cn
+127.0.0.1 mazu.3g.qq.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 pcr.da.netease.com
+127.0.0.1 sdk.open.talk.igexin.com
+127.0.0.1 sdk.open.talk.gepush.com
+127.0.0.1 sdk.open.talk.getui.net
+127.0.0.1 tools.3g.qq.com
+127.0.0.1 tools.3g.qq.com
+127.0.0.1 track.atom-data.io
+127.0.0.1 umengjmacs.m.taobao.com
+127.0.0.1 upv.aligames.com
+127.0.0.1 sdk.open.talk.igexin.com
+127.0.0.1 sdk.open.talk.gepush.com
+127.0.0.1 sdk.open.talk.getui.net
+
