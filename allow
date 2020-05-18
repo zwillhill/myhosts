@@ -1,0 +1,4 @@
+@@/t*.baidu.com/$important
+@@||s.click.taobao.com^$important
+@@||zhengxin-pub.bj.bcebos.com^$important
+@@||static.tongdun.net^$important
