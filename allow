@@ -7,3 +7,5 @@
 @@||static.tongdun.net^$important
 #Gameloft广告等
 @@/*.gameloft.com/$important
+#QQ空间图片
+@@/*.qpic.cn/$important
