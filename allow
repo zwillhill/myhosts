@@ -8,4 +8,4 @@
 #Gameloft广告等
 @@/*.gameloft.com/$important
 #QQ空间图片
-@@||a1.qpic.cn^$important
+@@||*.qpic.cn^$important
