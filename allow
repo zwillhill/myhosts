@@ -4,7 +4,7 @@
 #淘宝跳转链接
 @@||s.click.taobao.com^$important
 #同盾验证（koolshare等）
-@@||static.tongdun.net^$important
+@@||*.tongdun.net^$important
 #Gameloft广告等
 @@||*.gameloft.com^$important
 #QQ空间图片
