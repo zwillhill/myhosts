@@ -66,7 +66,7 @@
 127.0.0.1 sdk.open.talk.getui.net
 #按键精灵广告
 127.0.0.1 ad.vrbrothers.com
-#未知
+#未知大量访问
 127.0.0.1 pizzaseo.com
-#t.cn
+#修复t.cn跳转
 116.211.169.137 t.cn
