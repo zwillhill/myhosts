@@ -68,3 +68,5 @@
 127.0.0.1 ad.vrbrothers.com
 #未知大量访问
 127.0.0.1 pizzaseo.com
+#修复t.cn跳转
+116.211.169.137 t.cn
