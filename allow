@@ -1,6 +1,7 @@
 #百度搜索结果图片显示
-@@/t*.baidu.com/$important
+@@||t*.baidu.com/$important
 @@||zhengxin-pub.bj.bcebos.com^$important
+@@||ms.bdimg.com
 #淘宝跳转链接
 @@||s.click.taobao.com^$important
 #同盾验证（koolshare等）
