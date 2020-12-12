@@ -1,3 +1,23 @@
+# GitHub Start
+192.30.255.112 github.com
+192.30.255.113 gist.github.com
+192.30.255.116 api.github.com
+185.199.108.153 assets-cdn.github.com
+151.101.88.133 raw.githubusercontent.com
+151.101.88.133 user-images.githubusercontent.com
+151.101.88.133 gist.githubusercontent.com
+151.101.88.133 cloud.githubusercontent.com
+151.101.88.133 camo.githubusercontent.com
+151.101.88.133 avatars0.githubusercontent.com
+151.101.88.133 avatars1.githubusercontent.com
+151.101.88.133 avatars2.githubusercontent.com
+151.101.88.133 avatars3.githubusercontent.com
+151.101.88.133 avatars4.githubusercontent.com
+151.101.88.133 avatars5.githubusercontent.com
+151.101.88.133 avatars6.githubusercontent.com
+151.101.88.133 avatars7.githubusercontent.com
+151.101.88.133 avatars8.githubusercontent.com
+# GitHub End
 #屏蔽Corel验证#
 127.0.0.1 apps.corel.com
 127.0.0.1 mc.corel.com
